@@ -1,4 +1,4 @@
-# firebase-test
+# firebase-chat-demo
 
 ## Project setup
 ```
